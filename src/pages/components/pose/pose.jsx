@@ -4,6 +4,3 @@ export const Pose = (props) => {
     )
 }
     
-export const PoseProps = {
-    src: '/img/yoga-pose.jpg',
-  }

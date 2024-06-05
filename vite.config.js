@@ -18,4 +18,6 @@ export default defineConfig({
     modulePreload: false,
   },
   plugins: [czechitasRenderVitePlugin()],
+  assetsInclude: ['**/*.jpg', '**/*.png', '**/*.svg'],
 });
+
